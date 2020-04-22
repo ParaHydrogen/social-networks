@@ -1,6 +1,6 @@
 """
-Little program that can be used to download YouTube videos or playlist.
-This could probably be optimized but it works more than well as it is.
+Little program that can be used to download YouTube videos or playlists.
+This could probably be optimized but it works.
 """
 
 import os
