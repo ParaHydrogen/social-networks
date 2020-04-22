@@ -47,8 +47,6 @@ def downloadVideo(link_video, resolution, *option):
 def downloadPlaylist(link_playlist):
 
     list_links_playlist = list(Playlist(link_playlist))
-    downloaded_videos = []
-    # print(list_links_playlist)
 
     c = len(list_links_playlist)
     i = 0
